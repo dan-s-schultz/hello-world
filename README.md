@@ -1,2 +1,5 @@
 # hello-world
-dumpster depository
+dumpster depository 
+  Rooster
+  Chicken
+  Egg
